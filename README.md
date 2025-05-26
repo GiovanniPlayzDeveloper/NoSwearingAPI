@@ -1,1 +1,1 @@
-# NoSwearingAPI
+# NoSwearingAPI - Universal Text Filtering
