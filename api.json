@@ -1,0 +1,11 @@
+{
+  "name": "TextGuard API",
+  "author": "Aurora Softworks",
+  "date": "2025-05-26 08:29 AM, EST",
+  "version": "1.0.0",
+  "features": [
+    "Detects harmful words and phrases regardless of capitalization.",
+    "Capable of also detecting harmful words and phrases in other languages.",
+    "Can detect some harmful words even with numbers or symbols in them."
+  ]
+}
